@@ -3,7 +3,7 @@
  * 
  * (c)2019 Ivan Kostoski
  *
- * Modified by Richies Robotos 2022 (Min / Max Dec, Google Voice, Multi Processor Utlitilaztion)
+ * Modified by Richies Robots 2022 (Min / Max Dec, Google Voice, Multi Processor Utlitilaztion)
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
